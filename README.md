@@ -1,5 +1,11 @@
 # DUSTLINE — Meridian Depot
 
+[![make.fun · threejs-fps-02](https://make.fun/badge/threejs-fps-02.svg)](https://make.fun/bounty/threejs-fps-02?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
+[![rank](https://make.fun/badge/threejs-fps-02/sandiawan-kielo-dale/dustline/rank.svg)](https://make.fun/bounty/threejs-fps-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
+[![reward](https://make.fun/badge/threejs-fps-02/sandiawan-kielo-dale/dustline/reward.svg)](https://make.fun/bounty/threejs-fps-02?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
+
+[Entry for the make.fun bounty — Make the best three.js tactical FPS](https://make.fun/bounty/threejs-fps-02) · Referral: https://make.fun/r/y5hkb35z
+
 A round-based tactical first-person shooter in the style Counter-Strike made
 famous, built on three.js 0.187.0 for make.fun's
 **"Make the best three.js tactical FPS"** bounty
