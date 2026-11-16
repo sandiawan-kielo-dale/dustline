@@ -1,15 +1,1 @@
-{
-  "name": "tools",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "playwright-core": "^1.65.1"
-  }
-}
+{"dependencies":{"playwright-core":"^1.65.1"},"description":"Capture and playback tooling for DUSTLINE - Meridian Depot (screenshots, headless play probes)","license":"MIT","name":"tools","private":true,"scripts":{"debug-shot":"node debug-shot.mjs","probe":"node probe-play.mjs","shots":"node shots.mjs"},"type":"module","version":"1.0.0"}
